@@ -1,0 +1,14 @@
+{
+  "theme.white": {
+    "unlocked": true
+  },
+  "theme.default": {
+    "unlocked": true
+  },
+  "theme.shine": {
+    "unlocked": false
+  },
+  "theme.cyanide": {
+    "unlocked": false
+  }
+}
