@@ -20,6 +20,13 @@
       "price":2500,
       "width":300,
       "height":300
+    },
+    "4": {
+      "name":"Derp Faces",
+      "texture":"http://suptg.thisisnotatrueending.com/archive/15757732/images/1312066578841.gif",
+      "price":250,
+      "width":200,
+      "height":200
     }
   }
 }
