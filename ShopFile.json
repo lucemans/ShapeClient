@@ -65,5 +65,51 @@
       "width":300,
       "height":300
     }
+  },
+  "Cosmetics": {
+    "1": {
+      "name":"Cape",
+      "texture":"https://casper.io/wp-content/uploads/2015/05/exported_4_square_300.png",
+      "price":2500,
+      "width":300,
+      "height":300
+    }
+  },
+  "Cosmetics": {
+    "1": {
+      "name":"WindowsXP"
+      "texture":"https://casper.io/wp-content/uploads/2015/05/exported_4_square_300.png",
+      "price":2500,
+      "width":300,
+      "height":300
+    },
+    "2": {
+      "name":"Windows98"
+      "texture":"https://casper.io/wp-content/uploads/2015/05/exported_4_square_300.png",
+      "price":2500,
+      "width":300,
+      "height":300
+    },
+    "3": {
+      "name":"Cyanide"
+      "texture":"https://casper.io/wp-content/uploads/2015/05/exported_4_square_300.png",
+      "price":2500,
+      "width":300,
+      "height":300
+    },
+    "4": {
+      "name":"White"
+      "texture":"https://casper.io/wp-content/uploads/2015/05/exported_4_square_300.png",
+      "price":2500,
+      "width":300,
+      "height":300
+    },
+   "5: {
+      "name":"WizardHax"
+      "texture":"https://casper.io/wp-content/uploads/2015/05/exported_4_square_300.png",
+      "price":2500,
+      "width":300,
+      "height":300
+    },
   }
 }
