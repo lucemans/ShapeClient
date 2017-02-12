@@ -78,21 +78,21 @@
   "Themes": {
     "1": {
       "name": "WindowsXP",
-      "texture": "i.imgur.com/DKl7YDT.png",
+      "texture": "http://i.imgur.com/DKl7YDT.png",
       "price": 2500,
       "width": 300,
       "height": 300
     },
     "2": {
       "name": "Windows98",
-      "texture": "i.imgur.com/d050WZr.png",
+      "texture": "http://i.imgur.com/d050WZr.png",
       "price": 2500,
       "width": 300,
       "height": 300
     },
     "3": {
       "name": "Cyanide",
-      "texture": "https://casper.io/wp-content/uploads/2015/05/exported_4_square_300.png",
+      "texture": "http://i.imgur.com/khZJccF.png",
       "price": 2500,
       "width": 300,
       "height": 300
