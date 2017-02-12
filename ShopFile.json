@@ -125,6 +125,22 @@
       "price": 2500,
       "width": 300,
       "height": 300
+    },
+    "6": {
+      "name": "WizardHax",
+      "texture": "https://github.com/lucemans/ShapeClient/blob/master/heart.png?raw=true",
+      "stratName": "theme.wizardhax",
+      "price": 2500,
+      "width": 300,
+      "height": 300
+    },
+    "7": {
+      "name": "WizardHax",
+      "texture": "https://github.com/lucemans/ShapeClient/blob/master/heart.png?raw=true",
+      "stratName": "theme.wizardhax",
+      "price": 2500,
+      "width": 300,
+      "height": 300
     }
   }
 }
