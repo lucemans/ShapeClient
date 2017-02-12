@@ -42,5 +42,49 @@
       "width":200,
       "height":200
     }
+  },
+  "Modules": {
+    "1": {
+      "name":"Murder",
+      "texture":"http://i918.photobucket.com/albums/ad27/Mjk97/D100.jpg",
+      "price":1000,
+      "width":100,
+      "height":100
+    },
+    "2": {
+      "name":"X-Ray",
+      "texture":"http://upload.source.mobogenie.com/mobogeniecommonfile/image/leave/2014-10-11/1413014716333_200_200",
+      "price":250,
+      "width":200,
+      "height":200
+    },
+    "3": {
+      "name":"Invisiblity",
+      "texture":"https://casper.io/wp-content/uploads/2015/05/exported_4_square_300.png",
+      "price":2500,
+      "width":300,
+      "height":300
+    },
+    "4": {
+      "name":"Derp Faces",
+      "texture":"http://suptg.thisisnotatrueending.com/archive/15757732/images/1312066578841.gif",
+      "price":250,
+      "width":200,
+      "height":200
+    },
+    "5": {
+      "name":"Derp Faces",
+      "texture":"http://suptg.thisisnotatrueending.com/archive/15757732/images/1312066578841.gif",
+      "price":250,
+      "width":200,
+      "height":200
+    },
+    "6": {
+      "name":"Derp Faces",
+      "texture":"http://suptg.thisisnotatrueending.com/archive/15757732/images/1312066578841.gif",
+      "price":250,
+      "width":200,
+      "height":200
+    }
   }
 }
