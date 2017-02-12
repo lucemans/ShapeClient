@@ -13,6 +13,13 @@
       "price":250,
       "width":200,
       "height":200
+    },
+    "3": {
+      "name":"Invisiblity",
+      "texture":"https://casper.io/wp-content/uploads/2015/05/exported_4_square_300.png",
+      "price":2500,
+      "width":300,
+      "height":300
     }
   }
 }
