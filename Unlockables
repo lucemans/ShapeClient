@@ -13,5 +13,8 @@
   },
   "theme.windows98": {
     "unlocked": true
+  },
+  "theme.windowsxp": {
+    "unlocked": true
   }
 }
