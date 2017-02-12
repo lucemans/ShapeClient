@@ -69,10 +69,10 @@
   "Cosmetics": {
     "1": {
       "name": "Cape",
-      "texture": "https://casper.io/wp-content/uploads/2015/05/exported_4_square_300.png",
+      "texture": "http://s3.amazonaws.com/dev-pablo.marketkarma.com/cape-creator-for-minecraft-art-work.jpg",
       "price": 2500,
-      "width": 300,
-      "height": 300
+      "width": 358,
+      "height": 358
     }
   },
   "Themes": {
