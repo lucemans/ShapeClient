@@ -113,7 +113,7 @@
     "4": {
       "name": "White",
       "texture": "https://casper.io/wp-content/uploads/2015/05/exported_4_square_300.png",
-      "stratName": "module.white",
+      "stratName": "theme.white",
       "price": 2500,
       "width": 300,
       "height": 300
@@ -121,7 +121,7 @@
     "5": {
       "name": "WizardHax",
       "texture": "https://github.com/lucemans/ShapeClient/blob/master/heart.png?raw=true",
-      "stratName": "module.wizardhax",
+      "stratName": "theme.wizardhax",
       "price": 2500,
       "width": 300,
       "height": 300
