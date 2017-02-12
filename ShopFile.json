@@ -53,10 +53,10 @@
     },
     "2": {
       "name":"X-Ray",
-      "texture":"http://upload.source.mobogenie.com/mobogeniecommonfile/image/leave/2014-10-11/1413014716333_200_200",
+      "texture":"https://github.com/lucemans/ShapeClient/blob/master/xrayglasses.png",
       "price":250,
-      "width":200,
-      "height":200
+      "width":100,
+      "height":100
     },
     "3": {
       "name":"Invisiblity",
