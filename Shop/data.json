@@ -88,7 +88,7 @@
   "Themes": {
     "1": {
       "name": "WindowsXP",
-      "texture": "http://i.imgur.com/DKl7YDT.png",
+      "texture": "https://github.com/lucemans/ShapeClient/blob/master/themes/icons/xpWindows.png?raw=true",
       "stratName": "theme.windowsxp",
       "price": 2500,
       "width": 300,
@@ -96,7 +96,7 @@
     },
     "2": {
       "name": "Windows98",
-      "texture": "http://i.imgur.com/d050WZr.png",
+      "texture": "https://github.com/lucemans/ShapeClient/blob/master/themes/icons/98Windows.png?raw=true",
       "stratName": "theme.windows98",
       "price": 2500,
       "width": 300,
@@ -104,7 +104,7 @@
     },
     "3": {
       "name": "Cyanide",
-      "texture": "http://i.imgur.com/KhZJccF.png",
+      "texture": "https://github.com/lucemans/ShapeClient/blob/master/themes/icons/cyanide.png?raw=true",
       "stratName": "theme.cyanide",
       "price": 2500,
       "width": 300,
@@ -112,7 +112,7 @@
     },
     "4": {
       "name": "White",
-      "texture": "https://casper.io/wp-content/uploads/2015/05/exported_4_square_300.png",
+      "texture": "https://github.com/lucemans/ShapeClient/blob/master/themes/icons/white.png?raw=true",
       "stratName": "theme.white",
       "price": 2500,
       "width": 300,
@@ -120,23 +120,7 @@
     },
     "5": {
       "name": "WizardHax",
-      "texture": "https://github.com/lucemans/ShapeClient/blob/master/heart.png?raw=true",
-      "stratName": "theme.wizardhax",
-      "price": 2500,
-      "width": 300,
-      "height": 300
-    },
-    "6": {
-      "name": "WizardHax",
-      "texture": "https://github.com/lucemans/ShapeClient/blob/master/heart.png?raw=true",
-      "stratName": "theme.wizardhax",
-      "price": 2500,
-      "width": 300,
-      "height": 300
-    },
-    "7": {
-      "name": "WizardHax",
-      "texture": "https://github.com/lucemans/ShapeClient/blob/master/heart.png?raw=true",
+      "texture": "https://github.com/lucemans/ShapeClient/blob/master/themes/icons/wizardHax.png?raw=true",
       "stratName": "theme.wizardhax",
       "price": 2500,
       "width": 300,
