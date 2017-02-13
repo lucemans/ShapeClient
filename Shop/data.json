@@ -1,0 +1,146 @@
+{
+  "Featured": {
+    "1": {
+      "name": "Murder",
+      "texture": "http://i918.photobucket.com/albums/ad27/Mjk97/D100.jpg",
+      "stratName": "module.murder",
+      "price": 1000,
+      "width": 100,
+      "height": 100
+    },
+    "2": {
+      "name": "X-Ray",
+      "texture": "http://upload.source.mobogenie.com/mobogeniecommonfile/image/leave/2014-10-11/1413014716333_200_200",
+      "stratName": "module.xray",
+      "price": 250,
+      "width": 200,
+      "height": 200
+    },
+    "3": {
+      "name": "Invisiblity",
+      "texture": "https://casper.io/wp-content/uploads/2015/05/exported_4_square_300.png",
+      "stratName": "module.invisibility",
+      "price": 2500,
+      "width": 300,
+      "height": 300
+    },
+    "4": {
+      "name": "Derp Faces",
+      "texture": "http://suptg.thisisnotatrueending.com/archive/15757732/images/1312066578841.gif",
+      "stratName": "module.esp",
+      "price": 250,
+      "width": 200,
+      "height": 200
+    },
+    "5": {
+      "name": "Derp Faces",
+      "texture": "http://suptg.thisisnotatrueending.com/archive/15757732/images/1312066578841.gif",
+      "stratName": "module.tracers",
+      "price": 250,
+      "width": 200,
+      "height": 200
+    },
+    "6": {
+      "name": "Derp Faces",
+      "texture": "http://suptg.thisisnotatrueending.com/archive/15757732/images/1312066578841.gif",
+      "stratName": "module.derp",
+      "price": 250,
+      "width": 200,
+      "height": 200
+    }
+  },
+  "Modules": {
+    "1": {
+      "name": "Murder",
+      "texture": "http://i918.photobucket.com/albums/ad27/Mjk97/D100.jpg",
+      "stratName": "module.murder",
+      "price": 1000,
+      "width": 100,
+      "height": 100
+    },
+    "2": {
+      "name": "X-Ray",
+      "texture": "https://github.com/lucemans/ShapeClient/blob/master/xrayglasses.png?raw=true",
+      "stratName": "module.xray",
+      "price": 250,
+      "width": 100,
+      "height": 100
+    },
+    "3": {
+      "name": "Invisiblity",
+      "texture": "https://casper.io/wp-content/uploads/2015/05/exported_4_square_300.png",
+      "stratName": "module.invisibility",
+      "price": 2500,
+      "width": 300,
+      "height": 300
+    }
+  },
+  "Cosmetics": {
+    "1": {
+      "name": "Cape",
+      "texture": "http://s3.amazonaws.com/dev-pablo.marketkarma.com/cape-creator-for-minecraft-art-work.jpg",
+      "stratName": "cosmetics.cape",
+      "price": 2500,
+      "width": 358,
+      "height": 358
+    }
+  },
+  "Themes": {
+    "1": {
+      "name": "WindowsXP",
+      "texture": "http://i.imgur.com/DKl7YDT.png",
+      "stratName": "theme.windowsxp",
+      "price": 2500,
+      "width": 300,
+      "height": 300
+    },
+    "2": {
+      "name": "Windows98",
+      "texture": "http://i.imgur.com/d050WZr.png",
+      "stratName": "theme.windows98",
+      "price": 2500,
+      "width": 300,
+      "height": 300
+    },
+    "3": {
+      "name": "Cyanide",
+      "texture": "http://i.imgur.com/KhZJccF.png",
+      "stratName": "theme.cyanide",
+      "price": 2500,
+      "width": 300,
+      "height": 300
+    },
+    "4": {
+      "name": "White",
+      "texture": "https://casper.io/wp-content/uploads/2015/05/exported_4_square_300.png",
+      "stratName": "theme.white",
+      "price": 2500,
+      "width": 300,
+      "height": 300
+    },
+    "5": {
+      "name": "WizardHax",
+      "texture": "https://github.com/lucemans/ShapeClient/blob/master/heart.png?raw=true",
+      "stratName": "theme.wizardhax",
+      "price": 2500,
+      "width": 300,
+      "height": 300
+    },
+    "6": {
+      "name": "WizardHax",
+      "texture": "https://github.com/lucemans/ShapeClient/blob/master/heart.png?raw=true",
+      "stratName": "theme.wizardhax",
+      "price": 2500,
+      "width": 300,
+      "height": 300
+    },
+    "7": {
+      "name": "WizardHax",
+      "texture": "https://github.com/lucemans/ShapeClient/blob/master/heart.png?raw=true",
+      "stratName": "theme.wizardhax",
+      "price": 2500,
+      "width": 300,
+      "height": 300
+    }
+  }
+}
