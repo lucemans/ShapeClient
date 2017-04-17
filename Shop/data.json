@@ -9,7 +9,7 @@
       "height": 100
     },
     "2": {
-      "name": "X-Ray",
+      "name": "Z-Ray",
       "texture": "http://upload.source.mobogenie.com/mobogeniecommonfile/image/leave/2014-10-11/1413014716333_200_200",
       "stratName": "module.zray",
       "price": 250,
