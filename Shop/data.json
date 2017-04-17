@@ -25,7 +25,7 @@
       "height": 300
     },
     "4": {
-      "name": "Derp Faces",
+      "name": "Player ESP",
       "texture": "http://suptg.thisisnotatrueending.com/archive/15757732/images/1312066578841.gif",
       "stratName": "module.esp",
       "price": 250,
@@ -33,7 +33,7 @@
       "height": 200
     },
     "5": {
-      "name": "Derp Faces",
+      "name": "Tracers",
       "texture": "http://suptg.thisisnotatrueending.com/archive/15757732/images/1312066578841.gif",
       "stratName": "module.tracers",
       "price": 250,
@@ -41,7 +41,7 @@
       "height": 200
     },
     "6": {
-      "name": "Derp Faces",
+      "name": "Derp",
       "texture": "http://suptg.thisisnotatrueending.com/archive/15757732/images/1312066578841.gif",
       "stratName": "module.derp",
       "price": 250,
@@ -59,17 +59,17 @@
       "height": 100
     },
     "2": {
-      "name": "X-Ray",
+      "name": "Z-Ray",
       "texture": "https://github.com/lucemans/ShapeClient/blob/master/xrayglasses.png?raw=true",
-      "stratName": "module.xray",
+      "stratName": "module.zray",
       "price": 250,
       "width": 100,
       "height": 100
     },
     "3": {
-      "name": "Invisiblity",
+      "name": "Step",
       "texture": "https://casper.io/wp-content/uploads/2015/05/exported_4_square_300.png",
-      "stratName": "module.invisibility",
+      "stratName": "module.step",
       "price": 2500,
       "width": 300,
       "height": 300
