@@ -1,1 +1,9 @@
-
+{
+  "servers": {
+    "new-heaven.us": {
+      "modules": {
+        "punchaura": false
+      }
+    }
+  }
+}
