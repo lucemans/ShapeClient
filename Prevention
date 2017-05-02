@@ -4,6 +4,11 @@
       "modules": {
         "punchaura": false
       }
+    },
+    "fantasyserver.eu": {
+      "modules": {
+        "punchaura": false
+      }
     }
   }
 }
